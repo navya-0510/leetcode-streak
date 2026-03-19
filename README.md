@@ -2,5 +2,7 @@
 
 Tracking my daily LeetCode progress.
 
-## Day 1
-- Two Sum (Easy) → Hash Map
+## Solved Problems
+
+- Two Sum (Easy) → Hash Map (Revisited)
+- Maximum Subarray (Easy) → Kadane's Algorithm (Revisited)

@@ -8,7 +8,7 @@ A curated collection of my LeetCode problem-solving journey, focused on building
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 1               |
+| 🟢 Easy    | 1,3643          |
 | 🟡 Medium  | 38, 49, 53      |
 | 🔴 Hard    | 41              |
 

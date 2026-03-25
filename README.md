@@ -10,7 +10,7 @@ A curated collection of my LeetCode problem-solving journey, focused on building
 | ---------- | --------------- |
 | 🟢 Easy    | 1,3643          |
 | 🟡 Medium  | 38,49,53,55,64,54 |
-| 🔴 Hard    | 41,51           |
+| 🔴 Hard    | 41,51,44         |
 
 ---
 

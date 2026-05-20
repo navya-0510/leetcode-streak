@@ -46,4 +46,4 @@ Consistently improve problem-solving skills and prepare for top tech interviews 
 
 ---
 
-⭐ *Stay consistent. Stay sharp.*
+ *Stay consistent. Stay sharp.*
